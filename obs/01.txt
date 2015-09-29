@@ -46,7 +46,7 @@ Te igkalimma ne aldew, miglalag e man-e ka Manama, wey neyimu rin e ka langun ne
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg}}
 
-On the sixth day of creation, God said, “Let there be all kinds of land animals!” And it happened just like God said. Some were farm animals, some crawled on the ground, and some were wild. And God saw that it was good.
+Te igkeen-em e ne aldew, migkahi e man-e ka Manama, "Egkeyimu ka langun ne mananap kayi te kalibutan!" Ne duen en iya ka langun iling te ingkahi rin. Due me paa te duma, egmandul-ug ka duma, wey me mahintalunan ka duma. Ne nakita te Manama ne meupiya ka inggimu rin.
 
 
 
@@ -98,4 +98,4 @@ When the seventh day came, God had finished his work. So God rested from all he 
 
 
 
-// A Bible story from: Genesis 1-2 //
+// Ka guhuren te Bibliya puun te Hinisis 1-2 //

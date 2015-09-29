@@ -16,7 +16,7 @@ Tediyad-e si kandan, mig-ampue si Hisus, ne dutu naalin-e ka ulaula rin wey migs
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg}}
 
-Then Moses and the prophet Elijah appeared. These men had lived on the earth hundreds of years before this. They talked with Jesus about his death, which would soon happen in Jerusalem.
+Nataman, nakita ran e si Muysis wey ka prupita ne si Ilyas. Ne neneuyag ka seini ne me etew seled te pila ne me gatus ne me leg-un ka miglihad te ware neyitabu seini. Migpakiglalag sikandan ki Hisus meyitenged te kamatayen din ne mahaan e egkeyitabu diye te Hirusalim.
 
 
 
@@ -44,4 +44,4 @@ Jesus and the three disciples went back down the mountain. Then Jesus said to th
 
 
 
-// A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36 //
+// Ka guhuren puun te Bibliya: Matiyu 17:1-9; Markus 9:8; Lukas 9:28-36 //
